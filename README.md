@@ -1,5 +1,5 @@
 # End-to-end-Medical-Chatbot-Generative-AI
-![Chat UI](images/ui.png)
+![Chat UI](https://github.com/imDevansh3/Medical_chatbot_GenAI/blob/main/images/Screenshot%202025-07-18%20at%201.27.03%E2%80%AFPM%20copy.png)
 
 # How to run?
 ### STEPS:
