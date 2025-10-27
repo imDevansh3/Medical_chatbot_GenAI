@@ -1,28 +1,27 @@
-# Core Web Framework
-flask==3.0.3
-python-dotenv==1.0.1
-pypdf==4.2.0
+flask
+python-dotenv
+pypdf
 
-# Embeddings & Transformers
-sentence-transformers==2.2.2
-huggingface_hub==0.17.3
-transformers==4.31.0
+# Hugging Face embeddings
+sentence-transformers
+huggingface_hub
+transformers
 
-# LangChain Ecosystem (modularized)
-langchain==0.1.20
-langchain-core==0.1.52
-langchain-community==0.0.14
-langchain-openai==0.0.6
-langchain-pinecone==0.0.3
-langchain-experimental==0.0.8
-langchain-text-splitters==0.0.2
+# LangChain modular ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-pinecone
+langchain-experimental
+langchain-text-splitters
 
 # Pinecone Vector DB
-pinecone-client==3.2.1
+pinecone-client
 
-# Optional utilities
-tqdm==4.66.4
-requests==2.31.0
+# Utilities
+tqdm
+requests
 
-# Editable local source (if using a local src/ package)
+# Local package
 -e .
