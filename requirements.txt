@@ -1,27 +1,12 @@
 flask
-python-dotenv
 pypdf
-
-# Hugging Face embeddings
-sentence-transformers
-huggingface_hub
-transformers
-
-# LangChain modular ecosystem
-langchain
-langchain-core
-langchain-community
-langchain-openai
-langchain-pinecone
-langchain-experimental
-langchain-text-splitters
-
-# Pinecone Vector DB
+python-dotenv
 pinecone-client
-
-# Utilities
-tqdm
-requests
-
-# Local package
--e .
+langchain>=0.2.0
+langchain-pinecone>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-experimental>=0.0.60
+sentence-transformers
+transformers
+huggingface-hub
